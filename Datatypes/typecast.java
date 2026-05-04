@@ -39,4 +39,5 @@ class typecast {
      // System.out.print(r);
 
   }
+
 }
